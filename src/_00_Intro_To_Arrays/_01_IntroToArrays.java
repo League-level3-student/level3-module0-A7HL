@@ -5,7 +5,7 @@ import java.util.Random;
 public class _01_IntroToArrays {
     public static void main(String[] args) {
         // 1. declare and Initialize an array 5 Strings
-        String[] arr = new String[]{"one","two","three","four","five");
+        String[] arr = new String[]{"one","two","three","four","five"};
         // 2. print the third element in the array
         System.out.println(arr[3]);
         // 3. set the third element to a different value
@@ -20,7 +20,7 @@ public class _01_IntroToArrays {
         // 6. use a for loop to print all the values in the array
         //    BE SURE TO USE THE ARRAY'S length VARIABLE
         for(int j = 0;j<arr.length;j++){
-            System.out.println(arr[j];
+            System.out.println(arr[j]);
         }
         // 7. make an array of 50 integers
         
