@@ -185,6 +185,7 @@ public void wwcS() {
   };
   assertArrayEquals(new int[]{3,4}, TheWrongWayCow.findWrongWayCow(show(field)));
 }
+//in reverse
 
 @Test 
 public void mostlyEmpty() {
